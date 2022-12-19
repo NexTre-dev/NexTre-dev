@@ -1,3 +1,4 @@
+```ts
 export default {
     name: '_NexTre_',
     os: 'Arch Linux',
@@ -15,3 +16,4 @@ export default {
       'Electron',
     ]
 }
+```
